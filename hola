@@ -1,9 +1,12 @@
-#include <iostream>
-using namespace std;
+<!DOCTYPE HTML>
+<html>
 
-int main() 
-{
-    cout << "Hello, World!";
-    return 0;
-}
-//Nuevo contenido
+<body>
+
+  <script>
+    alert( 'Hello, world!' );
+  </script>
+
+</body>
+
+</html>
